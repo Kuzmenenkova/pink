@@ -1,0 +1,14 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: pink;
+}
+
+main {
+    padding: 20px 30px;
+    columns: 2;
+}
+
+header, footer {
+    padding: 10px 30px;
+}
